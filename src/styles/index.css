@@ -1,0 +1,7 @@
+@charset "UTF-8";
+@import url(c:\Users\lenovo\Desktop\后台管理\wzh\src\styles\normalize.css);
+html,
+body,
+#app {
+  height: 100%;
+}
